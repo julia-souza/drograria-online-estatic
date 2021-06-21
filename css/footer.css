@@ -1,0 +1,136 @@
+/*footer*/
+footer{
+    margin-top: 110px;
+  }
+  footer .row{
+    width: 100% !important;
+    margin-right: 0px !important;
+    padding-right: 0 !important;
+  }
+  footer .row p{
+    line-height: 60px;
+  }
+  footer .row-cinza-claro{
+    height: 260px;
+    background-color: #008a43;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  footer .row-cinza-escuro{
+    height: 60px;
+    background-color: #002e16;
+    border-top: #003f1e 1px solid;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  footer .float-left{
+    font-family: 'Open-Sans';
+    font-size: 14px;
+    color: #CCC;
+  }
+  footer .text-roxo{
+    color: #623291;
+    font-family: 'Open-Sans';
+    font-weight: bold;
+    font-size: 14px;
+  }
+  footer .logotipo{
+    margin-top:56px;
+  }
+  footer .col-popular-post,
+  footer .col-links,
+  footer .col-get-in-touch{
+    margin-top: 40px;
+  }
+  footer .row-cols h4{
+    font-family: 'Open-Sans';
+    font-size: 16px;
+    color: #FFF;
+    padding-bottom: 17px;
+    border-bottom: 1px solid #242D37;
+  }
+  footer .row-cols a{
+    color: #FFF;
+    font-size: 1.2em;
+    text-transform: uppercase;
+  }
+  footer .row-cols a:hover{
+    color: #d5021f;
+    text-decoration: underline;
+  }
+  footer .row-cols h5{
+    color: #CCC;
+    font-family: Arial;
+    font-size: 1.2em;
+    margin-bottom: 0;
+  }
+  footer .row-cols time{
+    color: #FDE092;
+    font-family: Arial;
+    font-size: 14px;
+  }
+  footer .row-cols li{
+    margin-bottom: 10px;
+  }
+  footer .col-links a{
+    color: #FFF;
+    font-family: Arial;
+    font-size: 14px;
+    text-decoration: none;
+  }
+  footer .col-links .fa{
+    margin: 0 6px;
+  }
+  footer .col-get-in-touch address{
+    color: #CCC;
+    font-family: Arial;
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+  footer .col-get-in-touch a{
+    text-decoration: none;
+    color: #CCC;
+    font-family: Arial;
+    font-size: 14px;
+  }
+  footer .col-get-in-touch address span{
+    display: inline-block;
+    font-size: 16px;
+    color: #CCC;
+    font-family: Arial;
+    font-size: 14px;
+  }
+  footer .col-get-in-touch address i{
+    position: relative;
+    top: -14px;
+  }
+  footer .col-get-in-touch i{
+    color: #CCC;
+    font-size: 20px;
+    margin: 0 6px;
+  }
+  footer .col-get-in-touch p{
+    line-height: 20px;
+  }
+  footer .list-socials{
+    margin-top: 4px;
+  }
+  footer .list-socials li{
+    display: inline-block;
+    margin-left: 3px;
+  }
+  footer .list-socials a{
+    display: block;
+    border: #CCC 1px solid;
+    width: 28px;
+    height: 28px;
+    line-height: 28px;
+    border-radius: 14px;
+    text-align: center;
+  }
+  footer .list-socials i{
+    font-size: 16px;
+    margin: auto;
+  }
