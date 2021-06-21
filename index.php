@@ -5,13 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="UTF-8">
   <link rel="stylesheet" type="text/css" href="/css/bootstrap.css" media="screen" />
-
   <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
 
   <title> Drogaria Online</title>
 </head>
 <body>
-  <object type="text/html"data="/include/header.html" style="width: 100%; overflow:hidden; height: 280px;"></object>
+  <?php include "include/header.php"?>
   <!--Slides-->
   <div class="slideshow-container">
 
@@ -80,7 +79,7 @@
   </div>
    
   <!-- Chama o footer-->
-<object type="text/html"data="/include/footer.html"></object>
+  <?php include "include/footer.php"?>
 
   
   <script>
