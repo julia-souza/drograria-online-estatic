@@ -4,8 +4,8 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="UTF-8">
-  <link rel="stylesheet" type="text/css" href="/css/bootstrap.css" media="screen" />
-  <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
 
   <title> Drogaria Online</title>
 </head>
@@ -15,11 +15,11 @@
   <div class="slideshow-container">
 
   <div class="mySlides">
-    <img src="/img/banner_recorrencia.jpg" style="width:100%">
+    <img src="img/banner_recorrencia.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <img src="/img/banner-farmacia-popupar-brasil.jpg" style="width:100%">
+    <img src="img/banner-farmacia-popupar-brasil.jpg" style="width:100%">
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -39,7 +39,7 @@
   <div id="grid">
     <div id="item1">
       <div class="card">
-        <img src="/img/remedio.jpg" alt="Remédio" style="width:100%">
+        <img src="img/remedio.jpg" alt="Remédio" style="width:100%">
         <h1>Remédio para gripe</h1>
         <p class="price">R$21,50</p>
         <p>Remédio para aliviar dores e febre</p>
@@ -49,7 +49,7 @@
 
     <div id="item2">
       <div class="card">
-        <img src="/img/remedio.jpg" alt="Remédio" style="width:100%">
+        <img src="img/remedio.jpg" alt="Remédio" style="width:100%">
         <h1>Dores de cabeça</h1>
         <p class="price">R$58,56</p>
         <p>Alivia dores de cabeça<br><br></p>
@@ -59,7 +59,7 @@
 
     <div id="item3">
       <div class="card">
-        <img src="/img/remedio.jpg" alt="Remédio" style="width:100%">
+        <img src="img/remedio.jpg" alt="Remédio" style="width:100%">
         <h1>Crescimento de cabelo</h1>
         <p class="price">R$30,99</p>
         <p>Acelera o crescimento do cabelo</p>

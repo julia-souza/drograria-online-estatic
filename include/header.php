@@ -11,7 +11,7 @@
         </div>
         <div class="col-md-2">
             <div id="account-header">
-                <a href="http://localhost/drograria-online-estatic2/login_page.php" class="account-page">
+                <a href="http://localhost/drograria-online-estatic/login_page.php" class="account-page">
                     <div class="icon-account"></div>
                     <div class="info-account">
                         <span>Minha conta</span>
@@ -33,13 +33,12 @@
     <nav>
         <div class="container">
             <ul class="menu-row">
-                <li class="menu-list">BELEZA</li>
-                <li class="menu-list">HIGIENE</li>
-                <li class="menu-list">MATERNIDADE</li>
-                <li class="menu-list">DERMATOLOGIA</li>
-                <li class="menu-list">MEDICAMENTOS</li>
-                <li class="menu-list">DIVERSOS</li>
-                <li class="menu-list">SUPER OFERTAS</li>
+                <li class="menu-list"><a href="http://localhost/drograria-online-estatic/menu_page_beleza.php">BELEZA</a></li>
+                <li class="menu-list"><a href="http://localhost/drograria-online-estatic/menu_page_higiene.php">HIGIENE</a></li>
+                <li class="menu-list"><a href="http://localhost/drograria-online-estatic/menu_page_cosmeticos.php">COSMÉTICOS</a></li>
+                <li class="menu-list"><a href="http://localhost/drograria-online-estatic/menu_page_maternidade.php">MATERNIDADE</a></li>
+                <li class="menu-list"><a href="http://localhost/drograria-online-estatic/menu_page_medicamento.php">MEDICAMENTO</a></li>
+                <li class="menu-list"><a href="http://localhost/drograria-online-estatic/menu_page_diversos.php">DIVERSOS</a></li>
             <ul>
         </div>
     </nav>

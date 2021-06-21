@@ -1,0 +1,44 @@
+h2{
+    float: left !important;
+    text-align: left !important;
+    margin-left: 10%;
+    font-size: 3em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    color: #d5021f;
+    font-weight: bolder;
+    border-bottom: #d5021f 1px solid;
+}
+.card {
+    box-shadow: none;
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    position: relative;
+    width: 80%;
+    height: 420px;
+    margin-bottom: 20px;
+  }
+.card:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1);
+}
+.card img{
+    width: 100px;
+    height: 150px;
+}
+.card .taxado{
+    text-decoration: line-through;
+    color: #777;
+}
+.card .price{
+    color: #000;
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.card button{
+    bottom: 0;
+    position: absolute;
+    left: 0;
+}

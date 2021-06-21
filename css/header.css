@@ -97,3 +97,9 @@ nav{
   color: #000;
   background-color: #ec0b29;
 }
+.menu-list a{
+  text-decoration: none;
+}
+.menu-list a:hover{
+  color:#000;
+}

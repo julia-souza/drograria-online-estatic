@@ -21,7 +21,7 @@
     display: block;
     margin-bottom: 1em;
     position: absolute;
-    width: 50%;
+    width: 60%;
   }
   .login-input label,.cadastro-input label{
     font: arial;
@@ -31,14 +31,14 @@
     width: 120px;
   }
   .cadastro-input label{
-    width: 180px;
+    width: 30%;
   }
   .cadastro-input input{
-    width: 50%;
+    width: 60%;
   
   }
   .login-input input{
-    width: 50%;
+    width: 60%;
   }
   .login-input:nth-child(2), .cadastro-input:nth-child(2){
     margin-bottom: 1em;

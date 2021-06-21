@@ -1,5 +1,5 @@
 
-    <link rel="stylesheet" type="text/css" href="/css/footer.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/footer.css" media="screen" />
     <footer> 
         <div class="container">
             
