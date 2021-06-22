@@ -31,22 +31,18 @@
 
             <div class="sec contact-us">
                 <h2>Fale Conosco</h2>
-                <ul class=info> 
-                    <li>
-                        <!-- <span><i class="fa fa-map-marker" aria-hidden="true"></i></span> -->
-                        <span>
-                            Rua Bernardo Horta, 100 <br>
-                            Cachoeiro de Itapemirim, Centro - ES <br> BRASIL
-                        </span>
-                    </li>
-                    <li>
-                        <span><i class="fa fa-phone" aria-hidden="true"></i></span>
-                         <p>
-                             <a href="+552835114455">+55 28 3511-4455</a><br>
-                             <a href="+5528999994455">+55 28 99999-4455</a>
-                         </p>
-                    </li>
-                </ul>
+                <p>
+                    <!-- <span><i class="fa fa-map-marker" aria-hidden="true"></i></span> -->
+                    <span>
+                        Rua Bernardo Horta, 100 <br>
+                        Cachoeiro de Itapemirim, Centro - ES <br> BRASIL
+                    </span>
+                </p>
+                <p>
+                <span><i class="fa fa-phone" aria-hidden="true"></i></span>
+                    <a href="+552835114455">+55 28 3511-4455</a><br>
+                    <a href="+5528999994455">+55 28 99999-4455</a>
+                </p>
             </div>
         </div>
     </footer>

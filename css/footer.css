@@ -7,7 +7,7 @@
 
 body{
     display: grid;
-    justify-content: end;
+    overflow-x: hidden;
     align-content: end;
     min-height: 100vh;
 }
@@ -31,6 +31,7 @@ footer .container .sec h2{
     color: floralwhite;
     font-weight: 500;
     margin-bottom:  15px;
+    width: 100%;
 }
 
 footer .container .sec h2::before{
@@ -46,6 +47,7 @@ footer .container .sec h2::before{
 
 footer .container .sec p{
     color: floralwhite;
+    margin-left: 10%;
 }
 
 .quick-links{

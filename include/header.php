@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="css/header.css">
     <div class="row topo-site">
         <div class="col-md-2">
-            <img src="img/6357977537_6429fb4333-removebg-preview.png" id="logo-topo">
+            <a href="http://localhost/drograria-online-estatic/"><img src="img/6357977537_6429fb4333-removebg-preview.png" id="logo-topo"></a>
         </div>
         <div class="col-md-6">
             <div id="search-bar">
