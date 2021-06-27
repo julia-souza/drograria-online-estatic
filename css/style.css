@@ -123,3 +123,33 @@ img {vertical-align: middle;}
   width: 100%;
   height: 100%;
 }
+#item4 {
+  grid-area: sd;
+  width: 100%;
+  height: 100%;
+}
+#item5 {
+  grid-area: main;
+  width: 100%;
+  height: 100%;
+}
+#item6 {
+  grid-area: ft;
+  width: 100%;
+  height: 100%;
+}
+#item7 {
+  grid-area: sd;
+  width: 100%;
+  height: 100%;
+}
+#item8 {
+  grid-area: main;
+  width: 100%;
+  height: 100%;
+}
+#item9 {
+  grid-area: ft;
+  width: 100%;
+  height: 100%;
+}

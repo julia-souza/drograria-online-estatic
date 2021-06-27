@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <html>
+
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="UTF-8">
-  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" media="screen" />
-  <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
-  <link rel="stylesheet" type="text/css" href="css/login_page.css" media="screen" />
-  <title> Drogaria Online</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="css/login_page.css" media="screen" />
+    <link rel="sortcut icon" href="img/favicon.ico" type="image/x-icon" />
+    <title> Drogaria Online</title>
 </head>
+
 <body>
-    <?php include "include/header.php"?>
+    <?php include "include/header.php" ?>
     <section>
         <div class="row">
             <h3 class="titulo-page">Minha conta</h3>
@@ -32,30 +35,31 @@
                 <form class="cadastro-form">
                     <h5>Cadastro: </h5>
                     <div class="cadastro-input">
-                    <label>E-MAIL:</label>
-                    <input type="text" name="email" placeholder="E-MAIL"></input>
+                        <label>E-MAIL:</label>
+                        <input type="text" name="email" placeholder="E-MAIL"></input>
                     </div>
                     <div class="cadastro-input">
-                    <label>NOME:</label>
-                    <input type="text" name="nome" placeholder="NOME"></input>
-                    </div>            
-                    <div class="cadastro-input">
-                    <label>CPF:</label>
-                    <input type="text" name="cpf" pattern="\d{3}\.?\d{3}\.?\d{3}-?\d{2}" placeholder="CPF"></input>            
+                        <label>NOME:</label>
+                        <input type="text" name="nome" placeholder="NOME"></input>
                     </div>
                     <div class="cadastro-input">
-                    <label>SENHA:</label>
-                    <input type="password" name="senha" placeholder="SENHA"></input>
+                        <label>CPF:</label>
+                        <input type="text" name="cpf" pattern="\d{3}\.?\d{3}\.?\d{3}-?\d{2}" placeholder="CPF"></input>
                     </div>
                     <div class="cadastro-input">
-                    <label>REPITA SUA SENHA:</label>
-                    <input type="password" name="senha" placeholder="REPITA SUA SENHA"></input>                        
+                        <label>SENHA:</label>
+                        <input type="password" name="senha" placeholder="SENHA"></input>
+                    </div>
+                    <div class="cadastro-input">
+                        <label>REPITA SUA SENHA:</label>
+                        <input type="password" name="senha" placeholder="REPITA SUA SENHA"></input>
                     </div>
                     <button class="cadastro-button" value="CADASTRAR">CADASTRAR</button>
                 </form>
             </div>
         </div>
     </section>
-    <?php include "include/footer.php"?>
+    <?php include "include/footer.php" ?>
 </body>
+
 </html>
